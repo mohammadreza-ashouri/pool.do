@@ -10,7 +10,7 @@ X 2- 25% implementation of the back code of mining pool application --> Releasin
 X 3- 50% implementation of the back code of mining pool application --> Releasing the third milestone (20% of the whole cost)
 
 
-4- 70% implementation of the back code of mining pool application --> Releasing the fourth milestone (15% of the whole cost)
+X 4- 70% implementation of the back code of mining pool application --> Releasing the fourth milestone (15% of the whole cost)
 
 
 5- 100% implementation of the back code of mining pool application --> Releasing the last milestone (20% of the whole cost)
